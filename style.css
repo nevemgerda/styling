@@ -1,0 +1,50 @@
+#page-wrap {
+    width:1000px;
+    margin: 0 auto;
+}
+.container1 {
+    width:1000px;
+    border: solid blue 2px;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+.box1 {
+    background: blue;
+    width:80px;
+    height:80px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+#anyad {
+    margin-left: 30px;
+}
+#marertem {
+    margin-right: 30px;
+}
+.container2 {
+    
+    width:1000px;
+    border: solid blue 2px;
+    display: flex;
+    background: orangered;
+    margin: 10px;
+    justify-content: center;
+}
+.box2 {
+    background: purple;
+    width:80px;
+    height:80px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+#navegre {
+    margin-left: 30px;
+}
+#easy {
+    margin-right: 30px;
+}
